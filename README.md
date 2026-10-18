@@ -128,92 +128,27 @@ hobbies:
 <h2 align="center">🏗️ Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://github.com/ruifrcosta/Dashboard-de-Vendas-em-Real-Time---SAP-Vision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruifrcosta&repo=Dashboard-de-Vendas-em-Real-Time---SAP-Vision&theme=tokyonight&hide_border=true" alt="Dashboard de Vendas em Real-Time - SAP Vision" />
-  </a>
-  <a href="https://github.com/ruifrcosta/LerMais">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruifrcosta&repo=LerMais&theme=tokyonight&hide_border=true" alt="LerMais - Aplicativo de Leitura" />
-  </a>
-  <a href="https://github.com/ruifrcosta/kwanza360">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruifrcosta&repo=kwanza360&theme=tokyonight&hide_border=true" alt="Kwanza360 - Plataforma de Informação" />
+  <a href="https://github.com/ruifrcosta/OMEGA-SKILL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ruifrcosta&repo=OMEGA-SKILL&theme=tokyonight&hide_border=true" alt="OMEGA - Autonomous Engineering Operating System" />
   </a>
 </div>
 
-<h2 align="center">🚀 Principais Projetos</h2>
+<h2 align="center">🚀 Projecto em Destaque</h2>
 
 <details open>
-  <summary><b>📊 Dashboard de Vendas em Real-Time - SAP Vision</b></summary>
+  <summary><b>OMEGA — Autonomous Engineering Operating System</b></summary>
   <br>
   <p>
-    Uma solução de Business Intelligence integrada com SAP que oferece visualização de dados de vendas em tempo real, permitindo aos gestores tomar decisões baseadas em dados atualizados instantaneamente.
+    OMEGA é uma skill para Claude orientada para estruturar fluxos de trabalho de engenharia de software com referências técnicas, agentes especializados, memória de projecto e documentação persistente.
   </p>
-
-  <h4>Características Principais:</h4>
-  <ul>
-    <li>Integração direta com SAP HANA para dados em tempo real</li>
-    <li>Dashboards interativos com métricas personalizáveis</li>
-    <li>Visualizações avançadas com D3.js e React</li>
-    <li>Sistema de alertas e notificações para métricas críticas</li>
-    <li>Suporte a dispositivos móveis para monitoramento em movimento</li>
-  </ul>
-
-  <h4>Tecnologias Utilizadas:</h4>
   <p>
-    <img src="https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
+    A documentação cobre arquitectura de software, frontend, backend, infra-estrutura, segurança, dados, agentes de IA, observabilidade, testes e governação técnica.
   </p>
-</details>
-
-<details>
-  <summary><b>📚 LerMais - Aplicativo de Leitura</b></summary>
-  <br>
   <p>
-    Plataforma mobile que facilita o acesso a livros e conteúdos de leitura, com foco em melhorar a experiência de leitura digital e promover a educação através da tecnologia.
+    O repositório documenta a abordagem e os componentes disponibilizados. A descrição das capacidades deve ser interpretada de acordo com o código e os exemplos presentes no projecto.
   </p>
-
-  <h4>Características Principais:</h4>
-  <ul>
-    <li>Biblioteca digital com milhares de livros e artigos</li>
-    <li>Modo de leitura personalizado com ajustes de fonte, tema e espaçamento</li>
-    <li>Sincronização entre dispositivos e marcadores de progresso</li>
-    <li>Funcionalidades sociais para compartilhar e discutir leituras</li>
-    <li>Sistema de recomendação baseado em preferências do usuário</li>
-  </ul>
-
-  <h4>Tecnologias Utilizadas:</h4>
   <p>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/Google_Books_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Books API" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🌐 Kwanza360 - Ecossistema Financeiro Completo</b></summary>
-  <br>
-  <p>
-    Ecossistema financeiro completo dividido em três plataformas especializadas, projetadas para oferecer a melhor experiência aos usuários angolanos. Com foco em simplicidade, segurança e integração, o ecossistema oferece serviços financeiros, educação e notícias em plataformas otimizadas para cada propósito.
-  </p>
-
-  <h4>Plataformas do Ecossistema:</h4>
-  <ul>
-    <li><b>Kwanza360+ Core</b> - Plataforma financeira principal com wallet digital, exchange de divisas e assistente com IA</li>
-    <li><b>Kwanza360+ Academia</b> - Plataforma educacional dedicada à educação financeira</li>
-    <li><b>Kwanza360+ News</b> - Plataforma de notícias e conteúdo financeiro</li>
-  </ul>
-
-  <h4>Tecnologias Utilizadas:</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/LangChain-121224?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+    <a href="https://github.com/ruifrcosta/OMEGA-SKILL">Consultar repositório e documentação</a>
   </p>
 </details>
 
